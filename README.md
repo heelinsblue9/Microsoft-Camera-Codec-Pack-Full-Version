@@ -234,4 +234,4 @@ This repository serves as the official landing page for Microsoft Camera Codec P
 **Get the most recent version of Microsoft Camera Codec Pack today!**
 
 ---
-**Last updated:** 2026-09-16 07:14:17 UTC
+**Last updated:** 2026-09-16 13:08:26 UTC
